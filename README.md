@@ -1,3 +1,1 @@
-这是个测试项目
-AADAGDASDASGD
-ASGASGSAGF
+这是一个查字典的项目
